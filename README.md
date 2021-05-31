@@ -15,7 +15,7 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials, 
 samples, guidance on mobile development, and a full API reference.
 
-O plano de desenvolvimento aplicativo intitulado “COLECTDADOS” baseia-se a obtenção de um sistema que permita o registro de atividades de pesquisa (TO DO), com ferramentas de registro de dados e informações na realização de pesquisas a campo.
+O plano de desenvolvimento do aplicativo intitulado “COLECTDADOS” baseia-se a obtenção de um sistema que permita o registro de atividades de pesquisa (TO DO), com ferramentas de registro de dados e informações na realização de pesquisas a campo.
 Dentre as funcionalidades estão:
 •	Registro de dados por projeto experimental;
 •	Registro de atividades a serem realizadas; 
